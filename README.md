@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a full-stack developer that just came out from tutorial hell and is currently trying to howl his skills through building projects
+I'm a full-stack developer that just came out from tutorial hell and is currently trying to hoan his skills through building projects
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [dnwobia@gmail.com](mailto:dnwobia@gmail.com)
 * 🤝  I'm open to collaborating on web-based apps
 
 ### Skills
