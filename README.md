@@ -17,9 +17,9 @@ Here are some of the technologies and tools I use:
 ## Projects
 Check out some of my latest projects:
 
-- [Project 1](https://notebook-nglu.onrender.com)
-- [Project 2](https://aesthetic-boba-50acb6.netlify.app)
-- [Project 3](https://secret-fkvw.onrender.com)
+- [NoteBook.](https://notebook-nglu.onrender.com)
+- [RECT Image gallery](https://aesthetic-boba-50acb6.netlify.app)
+- [SECRETS](https://secret-fkvw.onrender.com)
 
 ## Contact Me
 Feel free to reach out to me on any of these platforms:
