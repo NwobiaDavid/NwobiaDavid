@@ -18,7 +18,7 @@ Here are some of the technologies and tools I use:
 Check out some of my latest projects:
 
 - [NoteBook.](https://notebook-nglu.onrender.com)
-- [RECT Image gallery](https://aesthetic-boba-50acb6.netlify.app)
+- [REACT Image gallery](https://aesthetic-boba-50acb6.netlify.app)
 - [SECRETS](https://secret-fkvw.onrender.com)
 
 ## Contact Me
