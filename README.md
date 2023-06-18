@@ -21,12 +21,13 @@ Check out some of my latest projects:
 - [REACT Image gallery](https://aesthetic-boba-50acb6.netlify.app)
 - [SECRETS](https://secret-fkvw.onrender.com)
 
+## GitHub Stats
+![GitHub](https://img.shields.io/github/watchers/NwobiaDavid/NwobiaDavid?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/NwobiaDavid/NwobiaDavid)
+
 ## Contact Me
 Feel free to reach out to me on any of these platforms:
 
 - [GitHub](https://github.com/NwobiaDavid)
 - [LinkedIn](https://www.linkedin.com/in/nwobia-david-a17693237/)
 - [Twitter](https://twitter.com/david_nwobia)
-
-## GitHub Stats
-[![NwobiaDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NwobiaDavid&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/NwobiaDavid)
