@@ -23,7 +23,7 @@ Check out some of my latest projects:
 
 ## GitHub Stats
 ![GitHub](https://img.shields.io/github/watchers/NwobiaDavid/NwobiaDavid?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/NwobiaDavid/NwobiaDavid)
+![GitHub top language](https://img.shields.io/github/languages/top/NwobiaDavid/NwobiaDavid?langs_count=5)
 
 ## Contact Me
 Feel free to reach out to me on any of these platforms:
