@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm David, a Web Developer based in Nigeria.
+# Hi there! 👋 I'm David, your Neighbourhood Web Dev.
 
 ## About Me
 I'm a full-stack developer who loves creating projects and continuously learning new things. I recently came out of tutorial hell and I'm excited to hone my skills further by building more amazing web-based apps. 
