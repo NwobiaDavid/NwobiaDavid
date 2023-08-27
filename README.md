@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm David, your Neighbourhood Web Dev.
 
 ## About Me
-I'm a full-stack developer who loves creating projects and continuously learning new things. I recently came out of tutorial hell and I'm excited to hone my skills further by building more amazing web-based apps. 
+I'm a full-stack developer who loves creating projects and continuously learning new things.
 
 ## Skills
 Here are some of the technologies and tools I use:
@@ -21,9 +21,6 @@ Check out some of my latest projects:
 - [REACT Image gallery](https://aesthetic-boba-50acb6.netlify.app)
 - [SECRETS](https://secret-fkvw.onrender.com)
 
-## GitHub Stats
-![GitHub](https://img.shields.io/github/watchers/NwobiaDavid/NwobiaDavid?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/NwobiaDavid/NwobiaDavid?langs_count=5)
 
 ## Contact Me
 Feel free to reach out to me on any of these platforms:
