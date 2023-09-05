@@ -6,12 +6,13 @@ I'm a full-stack developer who loves creating projects and continuously learning
 ## Skills
 Here are some of the technologies and tools I use:
 
-- JavaScript (ES6+)
+- JavaScript (ES6+), TypeScript
 - HTML5, CSS3
 - ReactJS, NextJS, jQuery
 - TailwindCSS, Bootstrap
 - NodeJS, Express
 - MongoDB
+- React Native
 - Figma
 
 ## Projects
