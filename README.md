@@ -10,8 +10,8 @@ I am a Software Engineer from Nigeria :nigeria:
 
 ## 💻 Tech Stack:
 - **Languages**:JavaScript, TypeScript, Python, HTML/CSS.
-- **Frameworks**: React.JS, Next.JS, Express, Tkinter, Node.JS, Jquery, React Native.
-- **Database**: Mongo DB, Firebase, Supabase (coming soon).
+- **Frameworks**: React.JS, Next.JS, Express, Node.JS, Jquery, React Native.
+- **Database**: Mongo DB, Firebase, Supabase.
 
 
 ## 📊 GitHub Stats:
