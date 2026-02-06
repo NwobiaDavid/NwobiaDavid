@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nwobia David</h1>
-<h3 align="center">your Neighbourhood Full-Stack Dev.</h3>
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">your Neighbourhood Software Dev.</h3>
 
 ## :man_technologist: About Me
 I am a software engineer with a passion for building meaningful applications. I started coding to bring my ideas to life, and haven't stopped since.
@@ -9,6 +9,12 @@ I am a software engineer with a passion for building meaningful applications. I 
 - 🎯 Always learning, always growing
 
 
+
 ## 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NwobiaDavid" alt="GitHub Streak" /></a><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwobiadavid&show_icons=true&locale=en&layout=compact" alt="nwobiadavid" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NwobiaDavid&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nwobiadavid&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=8" alt="Top Languages" />
+</p>
